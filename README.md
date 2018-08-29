@@ -1,2 +1,2 @@
-# Netflix_Recommander
-Netflix_Recommander_System
+# Netflix_Recommender
+Netflix_Recommender_System
