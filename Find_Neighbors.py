@@ -23,16 +23,5 @@ class Find_Neighbors():
         _userB_ = self.user
 
         for x in range(_userB_):
-            similarity = pearsonr(self.data[,:_userA_], self.data[,:_userB_])
+            #similarity = pearsonr(self.data[,:_userA_], self.data[,:_userB_])
             print str(similarity)
-
-
-
-
-
-
-
-
-
-
-
